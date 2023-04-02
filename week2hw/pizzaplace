@@ -1,11 +1,12 @@
 let pizzaPlace="pizza king";
 let numberOfToppings=10;
-//console.log(pizzaPlace)
-//console.log(typeof(pizzaPlace))
-//console.log(numberOfToppings)
-//console.log(typeof(numberOfToppings))
+console.log(pizzaPlace)
+console.log(typeof(pizzaPlace))
+console.log(numberOfToppings)
+console.log(typeof(numberOfToppings))
 
-//`"Welcome to ${pizzaPlace}." "We have up to ${numberOfToppings} toppings!"`;
+let greeting= `"Welcome to ${pizzaPlace}." "We have up to ${numberOfToppings} toppings!"`;
+console.log(greeting)
 
 if (numberOfToppings<10){
   console.log("Quality, not quantity.")
