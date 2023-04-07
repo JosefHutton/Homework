@@ -49,7 +49,7 @@ Saving time
 Create wireframes and user flow diagram for at least 4 pages including Home, About, Contact Us and one other page demonstrating the specific functionality of your capstone's purpose (add link to wireframes one wireframe for each page with a min of 4 pages)
 
 ## Create and provide link to User Flow
-[Mural!](https://app.mural.co/invitation/mural/josefhutton6423/1680720018025?sender=ud0f71eeaf9087dd87a799470&key=c22281dd-b851-4f2f-86aa-1f730445bb6c)
+[Mural!](https://app.mural.co/t/josefhutton6423/m/josefhutton6423/1680720018025/0abd4f21171b026ffb57d085ed2129283c661b04?sender=ud0f71eeaf9087dd87a799470)
 
 ## Create and provide link to SWOT Analysis
 [SWOT](https://docs.google.com/document/d/1zDAv13uzAgdzjN_4SHXt5JqApsTCeigZF_oW9RycDbo/edit?usp=sharing)
