@@ -1,5 +1,5 @@
 # Introductory Speech
-The introduction speech is meant for your capstone presentation. It builds on the Elevator Pitch. The individuals that want to see your presentations want to hear a bit of a “story” about you, how you got to where you are at the end of the 12 weeks and everything you have accomplished, and about your capstone project!
+Hi my name is Josef and I have been a PC gamer for over 10 years, and enjoy knowing ins and outs of computers which brought me to this new career path with Savvy Coders. Im really into pc gaming so when given the opportunity to think about my capstone project, I wanted to create a informative website to help newer players with strategizing within the game of Destiny.
 
 ## Who is the target audience?
 Gamers
@@ -18,13 +18,10 @@ I want to build an application that give players the ability to use and maximize
 Gamers, Destiny players (new & old)
 
 ## Who is using my application
-Outline of content
+New players to the game
 
 ## What do I want on each page?
 text / pics / images / navigation
-
-## What do I want the functionality of each page to be?
-information dump
 
 # What is the purpose of my application?
 I created this application because everyone's time is valuable, have you ever been working on a task or project
@@ -45,15 +42,14 @@ Saving time
 2. lack of details on encounter boss
 3. lack of dmg evaluations
 
-## How my application will be different:
-Create wireframes and user flow diagram for at least 4 pages including Home, About, Contact Us and one other page demonstrating the specific functionality of your capstone's purpose (add link to wireframes one wireframe for each page with a min of 4 pages)
-
 ## Create and provide link to User Flow
 [Mural!](https://app.mural.co/t/josefhutton6423/m/josefhutton6423/1680720018025/0abd4f21171b026ffb57d085ed2129283c661b04?sender=ud0f71eeaf9087dd87a799470)
 
 ## Create and provide link to SWOT Analysis
 [SWOT](https://docs.google.com/document/d/1zDAv13uzAgdzjN_4SHXt5JqApsTCeigZF_oW9RycDbo/edit?usp=sharing)
+
 ## Wireframe
-
-
 [wireframe](https://drive.google.com/file/d/1TvvXWrOguCwqfnA9hLdtEbNiuVKGDbiH/view?usp=sharing)
+
+## User Flow
+[Userflow](https://drive.google.com/file/d/1vRTwK2kRWd5wfM-i4vU3xWkdapEmFe2U/view?usp=sharing)
