@@ -63,3 +63,7 @@ a:hover {
 li:first-child {
   color: #FFA500;
 }
+
+a:visited {
+  color: #DF6E34;
+}
